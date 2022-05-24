@@ -1,10 +1,9 @@
+{-# LANGUAGE OverloadedStrings #-}
 {-
     "1,200.00 + 5.2\n" -> "1200.00  + 5.2"
 
     1. remove commas
 -}
-
-{-# LANGUAGE OverloadedStrings #-}
 
 import qualified Data.Text as T
 import Data.Maybe

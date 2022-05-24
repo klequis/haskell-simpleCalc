@@ -1,1 +1,1 @@
-# sumLazy
+# simpleCalc

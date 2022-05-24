@@ -1,4 +1,3 @@
-{-# LANGUAGE OverloadedStrings #-}
 import qualified Data.Text as T
 import Data.Maybe
 import Data.List.Split (splitOn)

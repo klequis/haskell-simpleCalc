@@ -1,3 +1,3 @@
-# Changelog for sumLazy
+# Changelog for simpleCalc
 
 ## Unreleased changes
